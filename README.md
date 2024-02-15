@@ -69,7 +69,7 @@ where `ζ` is the [Riemann zeta function][zeta].
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-skewness@v0.2.0-deno/mod.js';
 ```
 
 #### skewness( mu, beta )
@@ -129,7 +129,7 @@ y = skewness( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-skewness@v0.2.0-deno/mod.js';
 
 var beta;
 var mu;
