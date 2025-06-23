@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-03)
+## Unreleased (2025-06-23)
 
 <section class="features">
 
@@ -22,7 +22,7 @@
 
 This release closes the following issue:
 
-[#3613](https://github.com/stdlib-js/stdlib/issues/3613)
+[#3654](https://github.com/stdlib-js/stdlib/issues/3654)
 
 </section>
 
