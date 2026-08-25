@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-07)
+## Unreleased (2026-08-25)
 
 <section class="commits">
 
@@ -12,6 +12,11 @@
 
 <details>
 
+-   [`caa6641`](https://github.com/stdlib-js/stdlib/commit/caa664132db8e198b76a35c688d6c326b6614673) - **docs:** update descriptions [(#13604)](https://github.com/stdlib-js/stdlib/pull/13604) _(by Philipp Burckhardt, Athan Reines)_
+-   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
+-   [`36ee366`](https://github.com/stdlib-js/stdlib/commit/36ee366130c07464017ccf0b49b9645a8f644a5f) - **chore:** clean-up [(#13539)](https://github.com/stdlib-js/stdlib/pull/13539) _(by Philipp Burckhardt)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
 -   [`4126555`](https://github.com/stdlib-js/stdlib/commit/412655574507fcca6df462c015ab741d7353fec0) - **bench:** update random value generation for `stats/base/dists/gumbel/skewness` [(#10261)](https://github.com/stdlib-js/stdlib/pull/10261) _(by Bhargav Dabhade)_
 
@@ -25,10 +30,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Bhargav Dabhade
+-   Philipp Burckhardt
 -   anee3
 
 </section>
